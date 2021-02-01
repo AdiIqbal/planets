@@ -1,5 +1,16 @@
+<<<<<<< HEAD
+It is so a planet! the smallest planet that is gone! Shes gone, 
+out of my life.
+
+
+ahhhahahahha ada apa hari ini ? jom makan !!
+=======
 It is so a planet!
 the smallest planet that is gone!
 Shes gone, out of my life.
 john cenna
+<<<<<<< HEAD
 hello its me mario
+=======
+>>>>>>> 513cd152ad08e7ebd34d8bda2afbeeed205e1cc2
+>>>>>>> 6fc3bd9eaca4b83d09ca4f4a47a364d3e48b3893
